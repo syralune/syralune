@@ -1,5 +1,5 @@
-<h1 align="center">hi, i am veylar / sonny</h1>
-<h3 align="center">i am a programmer, and i dream to become fullstack one day</h3>
+<h1 align="center">hi, i am sencrypt</h1>
+<h3 align="center">i am a (intermediate) programmer, and i like pokemon, like vaporeon!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
